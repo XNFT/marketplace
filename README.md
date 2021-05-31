@@ -1,4 +1,4 @@
-# XNft (NFT Marketplace)
+# [WIP] XNft (NFT Marketplace)
 
 ## TODO
 - [x] Deploy contracts 
