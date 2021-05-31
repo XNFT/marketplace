@@ -1,5 +1,6 @@
 # XNft (NFT Marketplace)
 
+## TODO
 - [x] Deploy contracts 
 - [ ] Run contracts unit-tests
 - [ ] Integrate with UI
